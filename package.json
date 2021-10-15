@@ -1,17 +1,17 @@
 {
-	"name": "kamadatepicker",
-	"version": "1.5.3",
-	"description": "a jQuery based datepicker for jalali (shamsi) calendar.",
+	"name": "silvanajdp",
+	"version": "1.0.0",
+	"description": "Jalali jQuery Datepicker",
 	"scripts": {
 		"build": "node_modules\\.bin\\webpack --config webpack.config.js",
 		"start": "node_modules\\.bin\\webpack --config webpack.config.js --watch"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Hadi290/kamaDatepicker.git"
+		"url": "git+https://github.com/silvana-tnk/kamaDatepicker.git"
 	},
 	"keywords": [
-		"kama",
+		"silvana",
 		"datepicker",
 		"jalali",
 		"shamsi"
@@ -19,9 +19,9 @@
 	"author": "Hadi Kefayati",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Hadi290/kamaDatepicker/issues"
+		"url": "https://github.com/silvana-tnk/kamaDatepicker/issues"
 	},
-	"homepage": "https://github.com/Hadi290/kamaDatepicker#readme",
+	"homepage": "https://github.com/silvana-tnk/kamaDatepicker#readme",
 	"dependencies": {
 		"jquery": "^3.5.1"
 	},
