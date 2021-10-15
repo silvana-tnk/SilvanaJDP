@@ -8,7 +8,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/silvana-tnk/kamaDatepicker.git"
+		"url": "git+https://github.com/silvana-tnk/SilvanaJDP.git"
 	},
 	"keywords": [
 		"silvana",
@@ -19,9 +19,9 @@
 	"author": "Hadi Kefayati",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/silvana-tnk/kamaDatepicker/issues"
+		"url": "https://github.com/silvana-tnk/SilvanaJDP/issues"
 	},
-	"homepage": "https://github.com/silvana-tnk/kamaDatepicker#readme",
+	"homepage": "https://github.com/silvana-tnk/SilvanaJDP#readme",
 	"dependencies": {
 		"jquery": "^3.5.1"
 	},
